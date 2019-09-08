@@ -6,7 +6,7 @@
 
 
 ### 1.1 has_memer.h
-宏定义
+宏定义，方便支持任意成员名
 
 
 ### 1.2 has_memger_test.h
